@@ -1,0 +1,165 @@
+{
+  "value": [
+    {
+      "code": "VNPT",
+      "url": "/otc/VNPT-tap-doan-buu-chinh-vien-thong-viet-nam.chn",
+      "company": "Tập đoàn Bưu chính Viễn thông Việt Nam",
+      "price": null,
+      "stock_exchange": "OTC",
+      "branch": "DOANH NGHIEP THONG THUONG",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {
+              "bvps": null,
+              "eps": null,
+              "roe": null,
+              "roa": null
+            },
+            "q4": {
+              "bvps": 10000.2,
+              "eps": 885.3,
+              "roe": 8.39,
+              "roa": 5.76
+            }
+          },
+          "bvps": 10000,
+          "eps": 839.52,
+          "roe": 8.39,
+          "roa": 5.76,
+          "doanh_so": 52127851000,
+          "loi_nhuan_sau_thue": 5697058000,
+          "tai_san": 98885634000,
+          "no_dai_han": 2556025000,
+          "von_chu_so_huu": 67862594000,
+          "roic": 8.090272261658525,
+          "effectiveness": 0.5271529229412636,
+          "effciency": 10.929009906815457
+        },
+        "2020": {
+          "quarter": {
+            "q1": {
+              "bvps": null,
+              "eps": null,
+              "roe": null,
+              "roa": null
+            },
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

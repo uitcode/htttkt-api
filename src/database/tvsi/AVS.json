@@ -1,0 +1,172 @@
+{
+  "value": [
+    {
+      "code": "AVS",
+      "url": "/hastc/AVS-cong-ty-co-phan-chung-khoan-au-viet.chn",
+      "company": "Công ty Cổ phần Chứng khoán Âu Việt",
+      "price": 6,
+      "stock_exchange": "HNX",
+      "branch": "CHUNG KHOAN",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": 6281.78,
+          "eps": -1127.05,
+          "roe": -16.46,
+          "roa": -12.83
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {
+              "bvps": 5991.94,
+              "eps": -517.91,
+              "roe": -8.21,
+              "roa": -6.99
+            },
+            "q4": {
+              "bvps": 6029.15,
+              "eps": -293.4,
+              "roe": -4.78,
+              "roa": -4.18
+            }
+          },
+          "bvps": 5988.38,
+          "eps": -293.4,
+          "roe": -4.78,
+          "roa": -4.18
+        },
+        "2013": {
+          "quarter": {
+            "q1": {
+              "bvps": 6149.82,
+              "eps": -318.12,
+              "roe": -5.17,
+              "roa": -4.77
+            },
+            "q2": {
+              "bvps": 6149.82,
+              "eps": -436.14,
+              "roe": -7.21,
+              "roa": -6.95
+            },
+            "q3": {
+              "bvps": 6278,
+              "eps": 138.08,
+              "roe": 2.27,
+              "roa": 2.24
+            },
+            "q4": {
+              "bvps": 6278,
+              "eps": 289.62,
+              "roe": 4.72,
+              "roa": 4.62
+            }
+          },
+          "bvps": 6278,
+          "eps": 289.62,
+          "roe": 4.72,
+          "roa": 4.62
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

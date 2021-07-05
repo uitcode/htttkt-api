@@ -1,0 +1,207 @@
+{
+  "value": [
+    {
+      "code": "DCR",
+      "url": "/upcom/DCR-cong-ty-co-phan-gach-men-cosevco.chn",
+      "company": "Công ty cổ phần Gạch men Cosevco",
+      "price": 4,
+      "stock_exchange": "Upcom",
+      "branch": "DOANH NGHIEP THONG THUONG",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 9619.93,
+              "eps": 72.66,
+              "roe": 0.76,
+              "roa": 0.28
+            }
+          },
+          "bvps": 9619.93,
+          "eps": 72.66,
+          "roe": 0.76,
+          "roa": 0.28,
+          "luu_chuyen_tien_te": -18775289,
+          "doanh_so": 210449363,
+          "loi_nhuan_sau_thue": 472301,
+          "tai_san": 167891117,
+          "no_dai_han": 5802336,
+          "von_chu_so_huu": 62529570,
+          "roic": 0.691186632493465,
+          "effectiveness": 1.2534871812187658,
+          "effciency": 0.22442500811941163,
+          "productitivty": -39.75280382637344
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {
+              "bvps": null,
+              "eps": null,
+              "roe": null,
+              "roa": null
+            },
+            "q3": {},
+            "q4": {
+              "bvps": 9665.45,
+              "eps": 45.52,
+              "roe": 0.47,
+              "roa": 0.17
+            }
+          },
+          "bvps": 9665.45,
+          "eps": 45.52,
+          "roe": 0.47,
+          "roa": 0.17,
+          "luu_chuyen_tien_te": -3757320,
+          "doanh_so": 165796393,
+          "loi_nhuan_sau_thue": 295857,
+          "tai_san": 181906962,
+          "no_dai_han": 3816176,
+          "von_chu_so_huu": 62825428,
+          "roic": 0.44395239946505494,
+          "effectiveness": 0.9114351159358046,
+          "effciency": 0.17844598102927364,
+          "productitivty": -12.699784017278617
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 10019.84,
+              "eps": 354.39,
+              "roe": 3.6,
+              "roa": 1.2
+            }
+          },
+          "bvps": 10019.84,
+          "eps": 354.39,
+          "roe": 3.6,
+          "roa": 1.2,
+          "luu_chuyen_tien_te": 22883148,
+          "doanh_so": 211678167,
+          "loi_nhuan_sau_thue": 2303525,
+          "tai_san": 203400282,
+          "no_dai_han": 10045255,
+          "von_chu_so_huu": 65128953,
+          "roic": 3.064249110546,
+          "effectiveness": 1.0406975099474052,
+          "effciency": 1.0882204020596986,
+          "productitivty": 9.933969893966855
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 10271.16,
+              "eps": 251.32,
+              "roe": 2.48,
+              "roa": 0.8
+            }
+          },
+          "bvps": 10271.16,
+          "eps": 251.32,
+          "roe": 2.48,
+          "roa": 0.8,
+          "luu_chuyen_tien_te": 10515478,
+          "doanh_so": 186681877,
+          "loi_nhuan_sau_thue": 1633611,
+          "tai_san": 204466669,
+          "no_dai_han": 11376451,
+          "von_chu_so_huu": 66762564,
+          "roic": 2.0906470346471604,
+          "effectiveness": 0.9130186250552162,
+          "effciency": 0.8750774452519566,
+          "productitivty": 6.436953473011629
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

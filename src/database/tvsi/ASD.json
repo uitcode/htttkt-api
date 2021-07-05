@@ -1,0 +1,277 @@
+{
+  "value": [
+    {
+      "code": "ASD",
+      "url": "/upcom/ASD-cong-ty-co-phan-song-da-ha-noi.chn",
+      "company": "Công ty Cổ phần Sông Đà Hà Nội",
+      "price": 8,
+      "stock_exchange": "Upcom",
+      "branch": "DOANH NGHIEP THONG THUONG",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": 10053.59,
+          "eps": 27,
+          "roe": 0.27,
+          "roa": 0.14,
+          "doanh_so": 23945649,
+          "loi_nhuan_sau_thue": 107998,
+          "tai_san": 75007443,
+          "no_dai_han": null,
+          "von_chu_so_huu": 40214367,
+          "effectiveness": 0.31924363826133895,
+          "effciency": 0.4510130420770805
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 10106.17,
+              "eps": 44.78,
+              "roe": 0.44,
+              "roa": 0.21
+            }
+          },
+          "bvps": 10098.37,
+          "eps": 44.78,
+          "roe": 0.44,
+          "roa": 0.21,
+          "doanh_so": 44659162,
+          "loi_nhuan_sau_thue": 179121,
+          "tai_san": 97781867,
+          "no_dai_han": null,
+          "von_chu_so_huu": 40393488,
+          "effectiveness": 0.456722328691065,
+          "effciency": 0.4010845523702393
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {
+              "doanh_so": 16481917,
+              "loi_nhuan_sau_thue": null,
+              "tai_san": 75756741,
+              "no_dai_han": null,
+              "von_chu_so_huu": 40424678,
+              "effectiveness": 0.21756370169091618
+            },
+            "q3": {
+              "bvps": null,
+              "eps": null,
+              "roe": null,
+              "roa": null
+            },
+            "q4": {
+              "bvps": 10247.9,
+              "eps": 149.52,
+              "roe": 1.47,
+              "roa": 0.63
+            }
+          },
+          "bvps": 10247.9,
+          "eps": 149.52,
+          "roe": 1.47,
+          "roa": 0.63,
+          "luu_chuyen_tien_te": 6112761,
+          "doanh_so": 73694997,
+          "loi_nhuan_sau_thue": 598099,
+          "tai_san": 91122033,
+          "no_dai_han": null,
+          "von_chu_so_huu": 40991587,
+          "effectiveness": 0.8087505795661956,
+          "effciency": 0.8115869792355105,
+          "productitivty": 10.220316369029208
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {
+              "tai_san": 110461779,
+              "no_dai_han": null,
+              "von_chu_so_huu": 29844838
+            },
+            "q4": {
+              "bvps": 10291.78,
+              "eps": 43.88,
+              "roe": 0.43,
+              "roa": 0.13
+            }
+          },
+          "bvps": 10291.78,
+          "eps": 43.88,
+          "roe": 0.43,
+          "roa": 0.13,
+          "luu_chuyen_tien_te": 38475177,
+          "doanh_so": 130539801,
+          "loi_nhuan_sau_thue": 175528,
+          "tai_san": 186472808,
+          "no_dai_han": null,
+          "von_chu_so_huu": 41167115,
+          "effectiveness": 0.7000473817072568,
+          "effciency": 0.13446320482746868,
+          "productitivty": 219.19680620755662
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 10792.52,
+              "eps": 500.74,
+              "roe": 4.75,
+              "roa": 1.08
+            }
+          },
+          "bvps": 10792.52,
+          "eps": 500.74,
+          "roe": 4.75,
+          "roa": 1.08,
+          "luu_chuyen_tien_te": -97305764,
+          "doanh_so": 269698329,
+          "loi_nhuan_sau_thue": 2002945,
+          "tai_san": 184587732,
+          "no_dai_han": null,
+          "von_chu_so_huu": 43170061,
+          "effectiveness": 1.461084797336369,
+          "effciency": 0.7426612569038201,
+          "productitivty": -48.58134596806203
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 11127.97,
+              "eps": 835.45,
+              "roe": 7.62,
+              "roa": 1.7
+            }
+          },
+          "bvps": 11127.97,
+          "eps": 835.45,
+          "roe": 7.62,
+          "roa": 1.7,
+          "luu_chuyen_tien_te": -649444,
+          "doanh_so": 91998311,
+          "loi_nhuan_sau_thue": 3341809,
+          "tai_san": 209419193,
+          "no_dai_han": null,
+          "von_chu_so_huu": 44511870,
+          "effectiveness": 0.43930219423584543,
+          "effciency": 3.632467774326857,
+          "productitivty": -0.19433905408717256
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 12090.51,
+              "eps": 962.54,
+              "roe": 8.29,
+              "roa": 1.57
+            }
+          },
+          "bvps": 12090.51,
+          "eps": 962.54,
+          "roe": 8.29,
+          "roa": 1.57,
+          "luu_chuyen_tien_te": 25654339,
+          "doanh_so": 95653279,
+          "loi_nhuan_sau_thue": 3850170,
+          "tai_san": 279823318,
+          "no_dai_han": null,
+          "von_chu_so_huu": 48362040,
+          "effectiveness": 0.34183455361643594,
+          "effciency": 4.0251312241998525,
+          "productitivty": 6.663170457408374
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 12174.21,
+              "eps": 484.54,
+              "roe": 4.19,
+              "roa": 0.68
+            }
+          },
+          "bvps": 12174.21,
+          "eps": 507.92,
+          "roe": 4.19,
+          "roa": 0.68,
+          "luu_chuyen_tien_te": 10557926,
+          "doanh_so": 191260162,
+          "loi_nhuan_sau_thue": 2031683,
+          "tai_san": 316410678,
+          "no_dai_han": 1626111,
+          "von_chu_so_huu": 48696822,
+          "roic": 4.037290513253669,
+          "effectiveness": 0.6044681020531172,
+          "effciency": 1.0622614656156153,
+          "productitivty": 5.196640420774304
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 12462.78,
+              "eps": 919.94,
+              "roe": 7.47,
+              "roa": 1.14
+            }
+          },
+          "bvps": 12462.78,
+          "eps": 920.26,
+          "roe": 7.47,
+          "roa": 1.14,
+          "luu_chuyen_tien_te": -81729109,
+          "doanh_so": 249893842,
+          "loi_nhuan_sau_thue": 3681055,
+          "tai_san": 331125420,
+          "no_dai_han": 495178,
+          "von_chu_so_huu": 49851115,
+          "roic": 7.311471770126154,
+          "effectiveness": 0.7546803323042973,
+          "effciency": 1.4730475031073396,
+          "productitivty": -22.202631854183107
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

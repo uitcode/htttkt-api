@@ -1,0 +1,231 @@
+{
+  "value": [
+    {
+      "code": "VASS",
+      "url": "/otc/VASS-cong-ty-co-phan-bao-hiem-vien-dong.chn",
+      "company": "Công ty cổ phần Bảo hiểm Viễn Đông",
+      "price": null,
+      "stock_exchange": "OTC",
+      "branch": "BAO HIEM",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 5902.62,
+              "eps": -1864.81,
+              "roe": -26.39,
+              "roa": -8.25
+            }
+          },
+          "tai_san": 984032796,
+          "bvps": 5902.62,
+          "eps": -1864.81,
+          "roe": -26.39,
+          "roa": -8.25
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": null,
+              "eps": null,
+              "roe": null,
+              "roa": null
+            }
+          },
+          "tai_san": 648614242,
+          "bvps": 2853.43,
+          "eps": -1422.05,
+          "roe": -49.84,
+          "roa": -6.58
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": null,
+              "eps": -13930.08,
+              "roe": null,
+              "roa": -59.15
+            }
+          },
+          "tai_san": 764336501,
+          "bvps": -11076.65,
+          "eps": -13930.08,
+          "roe": 338.8,
+          "roa": -59.15
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {
+              "tai_san": 1001037788
+            },
+            "q3": {
+              "tai_san": 1122419785
+            },
+            "q4": {
+              "bvps": null,
+              "eps": -8376.31,
+              "roe": null,
+              "roa": -27.65
+            }
+          },
+          "bvps": -19452.97,
+          "eps": -8376.31,
+          "roe": 54.87,
+          "roa": -27.65,
+          "tai_san": 1053122703
+        },
+        "2017": {
+          "quarter": {
+            "q1": {
+              "tai_san": 1131669855
+            },
+            "q2": {
+              "tai_san": 1165753445
+            },
+            "q3": {
+              "tai_san": 1202639979
+            },
+            "q4": {
+              "tai_san": 1002275783,
+              "bvps": null,
+              "eps": 4984.98,
+              "roe": null,
+              "roa": 24.18
+            }
+          },
+          "bvps": -1702.02,
+          "eps": 4984.98,
+          "roe": -74.55,
+          "roa": 24.18,
+          "tai_san": 1008269440
+        },
+        "2018": {
+          "quarter": {
+            "q1": {
+              "bvps": null,
+              "eps": 11644.64,
+              "roe": null,
+              "roa": 31.28,
+              "tai_san": 1096701726
+            },
+            "q2": {
+              "bvps": null,
+              "eps": 6775.65,
+              "roe": null,
+              "roa": 30.14,
+              "tai_san": 1194236715
+            },
+            "q3": {
+              "bvps": null,
+              "eps": 9735.11,
+              "roe": null,
+              "roa": 44.85,
+              "tai_san": 1048146980
+            },
+            "q4": {
+              "tai_san": 1459997481,
+              "bvps": 329.82,
+              "eps": 2095.11,
+              "roe": null,
+              "roa": 8.47
+            }
+          },
+          "bvps": 329.82,
+          "eps": 2095.11,
+          "roe": -305.37,
+          "roa": 8.47,
+          "tai_san": 1464876975
+        },
+        "2019": {
+          "quarter": {
+            "q1": {
+              "tai_san": 1226381903
+            },
+            "q2": {
+              "bvps": 1378.33,
+              "eps": 3480.51,
+              "roe": 1734.9,
+              "roa": 13.91,
+              "tai_san": 1268287789
+            },
+            "q3": {
+              "bvps": 922.75,
+              "eps": 2505.18,
+              "roe": 309.08,
+              "roa": 9.55,
+              "tai_san": 1292223849
+            },
+            "q4": {
+              "bvps": 5005.29,
+              "eps": 1321.96,
+              "roe": 147.33,
+              "roa": 6.49
+            }
+          },
+          "bvps": 2166.57,
+          "eps": 1839,
+          "roe": 147.33,
+          "roa": 6.49
+        },
+        "2020": {
+          "quarter": {
+            "q1": {
+              "tai_san": 1426333597
+            },
+            "q2": {
+              "tai_san": 1408484215
+            },
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "value": [
+    {
+      "code": "GDC",
+      "url": "/otc/GDC-ctcp-xuat-nhap-khau-gia-dinh.chn",
+      "company": "CTCP Xuất Nhập khẩu Gia Định",
+      "price": null,
+      "stock_exchange": "OTC",
+      "branch": "DOANH NGHIEP THONG THUONG",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "doanh_so": 77514811,
+          "loi_nhuan_sau_thue": 3586760,
+          "tai_san": 125095030,
+          "no_dai_han": 3281268,
+          "von_chu_so_huu": 45487529,
+          "bvps": 22743.76,
+          "eps": 1793.38,
+          "roe": 7.89,
+          "roa": 2.87,
+          "roic": 7.3546206194095785,
+          "effectiveness": 0.6196474072551084,
+          "effciency": 4.627193117970706
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "doanh_so": 102355836,
+          "loi_nhuan_sau_thue": 1561418,
+          "tai_san": 87142490,
+          "no_dai_han": 1426268,
+          "von_chu_so_huu": 44162187,
+          "bvps": 22081.09,
+          "eps": 780.71,
+          "roe": 3.48,
+          "roa": 1.47,
+          "roic": 3.4250294290517194,
+          "effectiveness": 1.1745801158539306,
+          "effciency": 1.5254801885453801
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "doanh_so": 39491057,
+          "loi_nhuan_sau_thue": 2270408,
+          "tai_san": 100535034,
+          "no_dai_han": 1481268,
+          "von_chu_so_huu": 44871177,
+          "bvps": 22435.59,
+          "eps": 1135.2,
+          "roe": 5.1,
+          "roa": 2.42,
+          "roic": 4.898140756113296,
+          "effectiveness": 0.3928089087829821,
+          "effciency": 5.749169995627111
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 19920.48,
+              "eps": 331.22,
+              "roe": 1.56,
+              "roa": 0.71
+            }
+          },
+          "doanh_so": 40003905,
+          "loi_nhuan_sau_thue": 662434,
+          "tai_san": 85831292,
+          "no_dai_han": 1536085,
+          "von_chu_so_huu": 39840961,
+          "bvps": 19920.48,
+          "eps": 331.22,
+          "roe": 1.56,
+          "roa": 0.71,
+          "roic": 1.6009697744010047,
+          "effectiveness": 0.4660759970850724,
+          "effciency": 1.6559233404838853
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": null,
+              "eps": null,
+              "roe": null,
+              "roa": null
+            }
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

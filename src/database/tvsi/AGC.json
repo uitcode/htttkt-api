@@ -1,0 +1,208 @@
+{
+  "value": [
+    {
+      "code": "AGC",
+      "url": "/hastc/AGC-cong-ty-co-phan-ca-phe-an-giang.chn",
+      "company": "Công ty Cổ phần Cà phê An Giang",
+      "price": 0,
+      "stock_exchange": "HNX",
+      "branch": "DOANH NGHIEP THONG THUONG",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {
+              "luu_chuyen_tien_te": -14283327,
+              "doanh_so": 77450619,
+              "loi_nhuan_sau_thue": 2113300,
+              "tai_san": 542239668,
+              "no_dai_han": null,
+              "von_chu_so_huu": 99846157,
+              "effectiveness": 0.1428346607057896,
+              "effciency": 2.728577288710888,
+              "productitivty": -6.758778687361
+            },
+            "q2": {
+              "luu_chuyen_tien_te": -1444600,
+              "doanh_so": 37135564,
+              "loi_nhuan_sau_thue": -36588443,
+              "tai_san": 514609639,
+              "no_dai_han": 779319,
+              "von_chu_so_huu": 56809709,
+              "roic": -63.53370471889194,
+              "effectiveness": 0.07216258924368885,
+              "effciency": -98.52669263350894,
+              "productitivty": 0.03948241252025947
+            },
+            "q3": {
+              "luu_chuyen_tien_te": 1947166,
+              "doanh_so": 6237584,
+              "loi_nhuan_sau_thue": -13702191,
+              "tai_san": 514756511,
+              "no_dai_han": 779319,
+              "von_chu_so_huu": 42645248,
+              "roic": -31.55400720518411,
+              "effectiveness": 0.012117542695831972,
+              "effciency": -219.67144650877648,
+              "productitivty": -0.14210617849364382
+            },
+            "q4": {
+              "luu_chuyen_tien_te": -1384824,
+              "doanh_so": 48119527,
+              "loi_nhuan_sau_thue": -94974382,
+              "tai_san": 391592927,
+              "no_dai_han": 558819,
+              "von_chu_so_huu": -52329134,
+              "roic": 183.45335932377463,
+              "effectiveness": 0.12288150189188683,
+              "effciency": -197.3718112399567,
+              "productitivty": 0.014581026702548062,
+              "bvps": null,
+              "eps": -17435.5,
+              "roe": -649.84,
+              "roa": -29.3
+            }
+          },
+          "luu_chuyen_tien_te": -14829957,
+          "doanh_so": 168943294,
+          "loi_nhuan_sau_thue": -144714612,
+          "tai_san": 396166844,
+          "no_dai_han": 558819,
+          "von_chu_so_huu": -53194162,
+          "bvps": -6408.94,
+          "eps": -17435.5,
+          "roe": -649.84,
+          "roa": -29.3,
+          "roic": 274.9381000518986,
+          "effectiveness": 0.4264448086927739,
+          "effciency": -85.6586897139581,
+          "productitivty": 0.10247726055472546
+        },
+        "2012": {
+          "quarter": {
+            "q1": {
+              "doanh_so": 3129555,
+              "loi_nhuan_sau_thue": -10474337,
+              "tai_san": 392839680,
+              "no_dai_han": 678819,
+              "von_chu_so_huu": -63668499,
+              "roic": 16.628655678199987,
+              "effectiveness": 0.007966494117905808,
+              "effciency": -334.6909384880598
+            },
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

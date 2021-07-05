@@ -1,0 +1,157 @@
+{
+  "value": [
+    {
+      "code": "GBS",
+      "url": "/hastc/GBS-cong-ty-co-phan-chung-khoan-golden-bridge-viet-nam.chn",
+      "company": "Công ty Cổ phần Chứng khoán Golden Bridge Việt Nam",
+      "price": 1,
+      "stock_exchange": "HNX",
+      "branch": "CHUNG KHOAN",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": 11816.56,
+          "eps": 650.16,
+          "roe": 5.65,
+          "roa": 1.91
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {
+              "bvps": 12030.26,
+              "eps": 328.12,
+              "roe": 2.76,
+              "roa": 0.91
+            },
+            "q4": {
+              "bvps": 8981.46,
+              "eps": -514.53,
+              "roe": -4.47,
+              "roa": -1.53
+            }
+          },
+          "bvps": 11230.2,
+          "eps": -514.53,
+          "roe": -4.47,
+          "roa": -1.53
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {
+              "bvps": 8981.46,
+              "eps": -3055.2,
+              "roe": -28.68,
+              "roa": -8.97
+            },
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

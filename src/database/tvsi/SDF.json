@@ -1,0 +1,157 @@
+{
+  "value": [
+    {
+      "code": "SDF",
+      "url": "/upcom/SDF-cong-ty-tai-chinh-co-phan-song-da.chn",
+      "company": "Công ty Tài chính cổ phần Sông Đà",
+      "price": 6,
+      "stock_exchange": "Upcom",
+      "branch": "NGAN HANG",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": 11747.28,
+          "eps": 1149.41,
+          "roe": 11.22,
+          "roa": 1.83
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 11328.26,
+              "eps": 9.83,
+              "roe": 0.09,
+              "roa": 0.02
+            }
+          },
+          "bvps": 11175.01,
+          "eps": 9.83,
+          "roe": 0.09,
+          "roa": 0.02
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": 11295.19,
+          "eps": 126.25,
+          "roe": 1.12,
+          "roa": 0.43
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 11420.71,
+              "eps": 132.11,
+              "roe": 1.16,
+              "roa": 0.62
+            }
+          },
+          "bvps": 11420.71,
+          "eps": 132.11,
+          "roe": 1.16,
+          "roa": 0.62
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 9725.83,
+              "eps": -1634.18,
+              "roe": -15.46,
+              "roa": -10.6
+            }
+          },
+          "bvps": 9725.83,
+          "eps": -1634.18,
+          "roe": -15.46,
+          "roa": -10.6
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

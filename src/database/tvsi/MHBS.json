@@ -1,0 +1,202 @@
+{
+  "value": [
+    {
+      "code": "MHBS",
+      "url": "/otc/MHBS-cong-ty-co-phan-chung-khoan-ngan-hang-phat-trien-nha-dong-bang-song-cuu-long.chn",
+      "company": "Công ty cổ phần Chứng khoán Ngân hàng Phát triển Nhà đồng bằng Sông Cửu Long",
+      "price": null,
+      "stock_exchange": "OTC",
+      "branch": "CHUNG KHOAN",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 7068.21,
+              "eps": 56.69,
+              "roe": 0.81,
+              "roa": 0.15
+            }
+          },
+          "bvps": 7209.26,
+          "eps": 56.69,
+          "roe": 0.81,
+          "roa": 0.15
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 6617.03,
+              "eps": -793.02,
+              "roe": -11.64,
+              "roa": -2.21
+            }
+          },
+          "bvps": 6416.24,
+          "eps": -793.02,
+          "roe": -11.64,
+          "roa": -2.21
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {
+              "bvps": 5163.8,
+              "eps": -1116.44,
+              "roe": -17.68,
+              "roa": -3.17
+            },
+            "q3": {
+              "bvps": 5333.35,
+              "eps": -1734.86,
+              "roe": -29.49,
+              "roa": -5
+            },
+            "q4": {
+              "bvps": 6455.7,
+              "eps": 39.46,
+              "roe": 0.61,
+              "roa": 0.12
+            }
+          },
+          "bvps": 4943.92,
+          "eps": -1472.32,
+          "roe": -25.92,
+          "roa": -4.52
+        },
+        "2014": {
+          "quarter": {
+            "q1": {
+              "bvps": 7348.98,
+              "eps": 774.58,
+              "roe": 12.75,
+              "roa": 2.33
+            },
+            "q2": {
+              "bvps": 5062.02,
+              "eps": 1410.01,
+              "roe": 23.31,
+              "roa": 4.37
+            },
+            "q3": {
+              "bvps": 5058.35,
+              "eps": 1236.78,
+              "roe": 20.68,
+              "roa": 3.95
+            },
+            "q4": {
+              "bvps": null,
+              "eps": 136.89,
+              "roe": 2.73,
+              "roa": 0.47
+            }
+          },
+          "bvps": 5080.8,
+          "eps": 136.89,
+          "roe": 2.73,
+          "roa": 0.47
+        },
+        "2015": {
+          "quarter": {
+            "q1": {
+              "bvps": 5034.25,
+              "eps": -853.37,
+              "roe": -16.88,
+              "roa": -2.91
+            },
+            "q2": {
+              "bvps": null,
+              "eps": -15099.71,
+              "roe": -1176.05,
+              "roa": -62.49
+            },
+            "q3": {
+              "bvps": null,
+              "eps": -15163.35,
+              "roe": null,
+              "roa": -80.07
+            },
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}

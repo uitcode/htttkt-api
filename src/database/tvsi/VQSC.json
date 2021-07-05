@@ -1,0 +1,167 @@
+{
+  "value": [
+    {
+      "code": "VQSC",
+      "url": "/otc/VQSC-cong-ty-co-phan-chung-khoan-viet-quoc.chn",
+      "company": "Công ty Cổ phần Chứng khoán Việt Quốc",
+      "price": null,
+      "stock_exchange": "OTC",
+      "branch": "CHUNG KHOAN",
+      "data": {
+        "2011": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 4594.62,
+              "eps": -957.61,
+              "roe": -13.38,
+              "roa": -3.55
+            }
+          },
+          "bvps": 6678.05,
+          "eps": -957.61,
+          "roe": -13.38,
+          "roa": -3.55
+        },
+        "2012": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {
+              "bvps": 5125.06,
+              "eps": -2204.11,
+              "roe": -39.53,
+              "roa": -17.45
+            }
+          },
+          "bvps": 4473.94,
+          "eps": -2204.11,
+          "roe": -39.53,
+          "roa": -17.45
+        },
+        "2013": {
+          "quarter": {
+            "q1": {},
+            "q2": {
+              "bvps": 5012.61,
+              "eps": -1309.91,
+              "roe": -28.57,
+              "roa": -13.19
+            },
+            "q3": {
+              "bvps": 4775.87,
+              "eps": -797.02,
+              "roe": -17.21,
+              "roa": -9.15
+            },
+            "q4": {
+              "bvps": 4615.29,
+              "eps": -958.72,
+              "roe": -21.07,
+              "roa": -15.07
+            }
+          },
+          "bvps": 4624.65,
+          "eps": -958.72,
+          "roe": -21.07,
+          "roa": -15.07
+        },
+        "2014": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2015": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2016": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2017": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2018": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2019": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2020": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          },
+          "bvps": null,
+          "eps": null,
+          "roe": null,
+          "roa": null
+        },
+        "2021": {
+          "quarter": {
+            "q1": {},
+            "q2": {},
+            "q3": {},
+            "q4": {}
+          }
+        }
+      }
+    }
+  ]
+}
